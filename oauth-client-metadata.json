@@ -1,0 +1,17 @@
+{
+  "client_id": "https://xiaoxiaochem.github.io/dsh-undermind-cimd/oauth-client-metadata.json",
+  "client_name": "DeepSeek Harness (Undermind)",
+  "client_uri": "https://github.com/deepseek-ai/deepseek-harness",
+  "redirect_uris": [
+    "http://localhost:3334/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
